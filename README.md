@@ -1,2 +1,2 @@
 # hello-world
-My intro repository 
+My intro repository. Fun
